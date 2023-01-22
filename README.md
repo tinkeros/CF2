@@ -11,3 +11,5 @@
 - Randomly located ammo, time bonus and health pack items that automatically pick up when the player is close and they can benefit the player.  Health is red on minimap, extra ammo and time bonuses are hidden.
 - At a distance coffins and tanks can look a alike, don't waste your ammo shooting coffins.
 - You can turn off the music for slightly better performance and to hear the other sound effects better.
+
+#### CF2.ISO.C contains a version for vanilla TempleOS (no mouse movement) and for TinkerOS
