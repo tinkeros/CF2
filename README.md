@@ -16,3 +16,4 @@
 - You can turn off the music for slightly better performance and to hear the other sound effects better.
 
 #### CF2.ISO.C contains a version for vanilla TempleOS (no mouse movement) and for TinkerOS
+#### CF2.ZC is for ZealOS which should work once [https://github.com/Zeal-Operating-System/ZealOS/pull/93] is merged.
