@@ -1,3 +1,6 @@
+## Castle Frankenstein 2.0
+<center><br><img src="https://github.com/tinkeros/CF2/blob/master/screenshot.gif?raw=true"></img><br></center>
+
 ### Castle Frankenstein 2.0 upgrades include:
 - Larger map and new tank enemies (tanks are cyan color on minimap).
 - Five difficulty levels. Level 1 is the easiest, but hard enough to be a challenge.
